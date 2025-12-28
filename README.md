@@ -12,6 +12,9 @@ Live link: https://shortify-3w0i.onrender.com
 
 Key Features:
 ✅ Collision-Free: Implements a retry-loop logic in Go to ensure every short URL is 100% unique.
+
 ✅ Database Powered: Uses PostgreSQL for reliable data persistence.
+
 ✅ Dual-Service Architecture: Optimized for cloud deployment on Render.
+
 ✅ Responsive UI: Built with Bootstrap for a clean mobile-first experience.
